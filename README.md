@@ -1,17 +1,12 @@
 # API foro
 
-Este es un proyecto de ejemplo. Aquí puedes proporcionar información sobre tu proyecto, cómo configurarlo y cómo usarlo.
+Esta es la base para la API de foro colaborativo...
 
 ## Requisitos
 
 - Java
 - Spring Boot
 - Angular (para el frontend)
-
-## Instalación
-
-1. Clona este repositorio.
-2. Ejecuta `mvn install` en el directorio del proyecto.
 
 ## Uso
 
